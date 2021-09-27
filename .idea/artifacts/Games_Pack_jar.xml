@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Games Pack:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Games_Pack_jar</output-path>
+    <root id="archive" name="Games Pack.jar">
+      <element id="module-output" name="Games Pack" />
+    </root>
+  </artifact>
+</component>
